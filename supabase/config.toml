@@ -1,0 +1,2 @@
+# Minimal Supabase CLI config. Run `supabase link --project-ref kklvlujvyyefmydeeuyo` locally.
+project_id = "kklvlujvyyefmydeeuyo"
